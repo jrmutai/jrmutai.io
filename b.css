@@ -1,0 +1,8 @@
+#deal{size: 15px}
+#deal a:hover{background-color: brown;
+border-radius: 15px;
+color: white;
+padding: 10px; }
+	body{background-color:#7DBF02}
+	.videopage{ background-color: #CACD14;}
+	#emp{color:#CACD14; }
